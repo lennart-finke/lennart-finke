@@ -1,6 +1,6 @@
 ### About Me
 
-Hello and welcome to my Github page! I study statistics at ETH Zürich and like to write open source for fun. Sometimes programming is also my job, either employed by places like the Bosch Group and Göttingen University (where I did an undergraduate math degree) or as an independant grant recipient. Some favourite topics of mine include silly CLI applications, statistics, alignment and learning languages. Feel free to reach out or contribute!
+Hello and welcome to my Github page! I study statistics at ETH Zürich and like to write open source for fun.
 
 ---
 
